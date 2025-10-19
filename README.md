@@ -20,8 +20,8 @@ This setup mirrors how embedded systems or networked devices often layer reliabi
 
 ## Project Structure
 
+```
 reliable-telemetry/
-|
 |-- include/
 |   └── protocol.h              # Shared protocol definitions and constants
 |
@@ -32,6 +32,8 @@ reliable-telemetry/
 |
 |-- Makefile                    # Build configuration
 └── README.md                   # Project documentation
+```
+
 
 
 ## How It Works
