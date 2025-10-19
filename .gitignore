@@ -1,0 +1,22 @@
+# Build directories
+build/
+cmake-build-*/
+
+# Executables
+telemetry_server
+telemetry_client
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
