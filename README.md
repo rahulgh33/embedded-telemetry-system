@@ -19,7 +19,7 @@ This setup mirrors how embedded systems or networked devices often layer reliabi
 - Clean C++ implementation using RAII and POSIX sockets  
 
 ## Project Structure
-
+'''
 reliable-telemetry/
 ├── include/
 │ └── protocol.h # Shared protocol definitions and constants
@@ -29,7 +29,7 @@ reliable-telemetry/
 │ └── crc32.cpp
 ├── Makefile
 └── README.md
-
+'''
 
 ## How It Works
 
